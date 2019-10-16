@@ -1,5 +1,5 @@
 Django==2.2.4
 djangorestframework==3.10.2
-flake>=3.6.0,<3.7.0
+flake8>=3.6.0,<3.7.0
 
 
